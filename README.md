@@ -25,4 +25,10 @@ Currently completing my MS in Computer Information Systems at Boston University 
 - 💻 [HackerRank](https://hackerrank.com/nick_kouts)
 - 🗂️ [Docker Hub](https://hub.docker.com/r/nickkouts197)
 ---
+![Build Status](https://img.shields.io/github/actions/workflow/status/nick-kouts/weather-app/main.yml?branch=main)
+![Docker Pulls](https://img.shields.io/docker/pulls/nkouts/weather-app)
+![Angular](https://img.shields.io/badge/angular-16-red)
+![TypeScript](https://img.shields.io/badge/typescript-5.2-blue)
+![GitHub Copilot](https://img.shields.io/badge/copilot-enabled-green)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
